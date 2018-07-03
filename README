@@ -1,0 +1,7 @@
+Copie o arquivo rxtxSerial.dll para:
+C:\Program Files\Java\jdkx.x.x\bin - onde x.x.x é a versão do JDK, por exemplo C:\Program Files\Java\jdk1.6.40\bin;
+C:\Program Files\Java\jrex\bin     - onde x é a versão do JRE, por exemplo C:\Program Files\Java\jre7\bin;
+C:\Windows\SysWOW64 ou C:\Windows\System32 caso sistema operacional seja de 32-bits.
+     
+Copie o arquivo RXTXcomm.jar para:
+C:\Program Files\Java\jre\jrex\lib\ext - onde x é a versão do JRE, por exemplo C:\Program Files\Java\jre7\lib\ext.
